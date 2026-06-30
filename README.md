@@ -16,4 +16,15 @@ php bin/magento setup:upgrade
 ```
 
 # Frontend Output:
+Hit the Controller path /currencyconverter, below page will appear
 ![Frontent Output Screenshot](images/chart.png)
+
+Now, we can select any Currencies from the dropdown lists (From & To)
+![Frontent Output Screenshot](images/from.png)
+![Frontent Output Screenshot](images/to.png)
+
+After clicking on swap button, the output changes and chart looks like
+![Frontent Output Screenshot](images/swap.png)
+
+
+
