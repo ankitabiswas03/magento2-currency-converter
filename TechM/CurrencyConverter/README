@@ -1,0 +1,3 @@
+# Magento 2 Currency Converter
+Route: /currencyconverter
+Uses Frankfurter currencies, latest rates, swap control.
