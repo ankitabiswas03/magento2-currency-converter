@@ -11,4 +11,4 @@ Enable the module(s) using Magento CLI:
 php bin/magento setup:upgrade
 
 #Frontend Output
-https://thfvnext.bing.com/th/id/OIP.pHtf1zFedYAeJRP6yeniDQHaDt?w=296&h=174&c=7&r=0&o=7&cb=thfvnextfalcon3&pid=1.7&rm=3
+![Frontent Output Screenshot](assets/chart.png)
