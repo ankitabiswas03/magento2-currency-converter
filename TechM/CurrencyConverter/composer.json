@@ -1,0 +1,5 @@
+{
+  "name": "techm/module-currency-converter",
+  "type": "magento2-module",
+  "autoload": {"files": ["registration.php"],"psr-4": {"Techm\CurrencyConverter\": ""}}
+}
