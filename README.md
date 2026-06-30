@@ -9,6 +9,7 @@ git clone https://github.com/ankitabiswas03/magento2-currency-converter.git
 
 # Install Module:
 Copy the desired module folder into your Magento 2 installation's app/code directory.
+
 Enable the module using Magento CLI:
 ```bash
 php bin/magento setup:upgrade
