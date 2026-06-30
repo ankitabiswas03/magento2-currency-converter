@@ -15,5 +15,5 @@ Enable the module using Magento CLI:
 php bin/magento setup:upgrade
 ```
 
-# Frontend Output
+# Frontend Output:
 ![Frontent Output Screenshot](images/chart.png)
